@@ -18,7 +18,7 @@ A multi-agent study planner where several agents work together using **sequentia
 1. Clone the repo and go into the folder:
    ```bash
    git clone https://github.com/sunnybbaishnab/google-adk-agents
-   cd <repo-name>
+   cd google-adk-agents
    ```
 
 2. Create and activate a virtual environment, then install the dependencies:
